@@ -1,3 +1,3 @@
-# chico-doc
+# chico-doc [DEPRECATED]
 
-Chico UI v1.0 - Documentation [temp]
+Now you can read it on [http://chico.mercadolibre.com](http://chico.mercadolibre.com)
